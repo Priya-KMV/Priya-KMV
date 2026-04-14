@@ -1,6 +1,6 @@
 # Priya Kattigehalli Mata
 ### Machine Learning Engineer | Data Scientist
-📍 United States &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/priyakmv) 
+📍 United States &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/priyamata/) 
 &nbsp;|&nbsp; 📧 priyakmata@gmail.com.com
 
 ---
