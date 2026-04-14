@@ -8,10 +8,10 @@
 ## About
 ML Engineer and Data Scientist with 4+ years building production 
 ML systems at enterprise scale. Specialized in GenAI, RAG pipelines, 
-LLM fine-tuning, and end-to-end model lifecycle — from training to 
+LLM fine-tuning, and end-to-end model lifecycle from training to 
 TorchServe/ONNX deployment on AWS and GCP.
 
-Currently building toward robotics ML — working on a LiDAR-based 
+Currently building toward robotics ML working on a LiDAR-based 
 3D object detection system using PointPillars on the KITTI dataset.
 
 ---
