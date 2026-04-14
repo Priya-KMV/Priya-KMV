@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @Priya-KMV  
-- 👀 I’m interested in Data Science, ML/AI, and solving real-world problems with analytics  
-- 🌱 I’m currently learning Deep Learning, NLP, and Model Interpretability  
-- 💞️ I’m looking to collaborate on impactful data science projects, especially in fintech, healthcare, or social good   
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyakmv/) | [GitHub](https://github.com/Priya-KMV)  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love pencil shading and can turn your data story into a visual one—on paper or in a dashboard!
+# Priya Kattigehalli Mata
+### Machine Learning Engineer | Data Scientist
+📍 United States &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/priyakmv) 
+&nbsp;|&nbsp; 📧 priyakmata@gmail.com.com
 
-<!---
-Priya-KMV/Priya-KMV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About
+ML Engineer and Data Scientist with 4+ years building production 
+ML systems at enterprise scale. Specialized in GenAI, RAG pipelines, 
+LLM fine-tuning, and end-to-end model lifecycle — from training to 
+TorchServe/ONNX deployment on AWS and GCP.
+
+Currently building toward robotics ML — working on a LiDAR-based 
+3D object detection system using PointPillars on the KITTI dataset.
+
+---
+
+## Technical Focus
+| Area | Tools & Frameworks |
+|---|---|
+| GenAI & LLMs | LangChain · RAG · OpenAI API · Hugging Face · LoRA/QLoRA |
+| Deep Learning | PyTorch · TensorFlow · BERT · GPT · Transformers |
+| MLOps | MLflow · Docker · Kubernetes · GitHub Actions · CI/CD |
+| Model Serving | ONNX · TorchServe · Triton · REST APIs |
+| Cloud | AWS (SageMaker · Lambda · S3) · GCP · Azure ML |
+
+---
+
+## Featured Projects
+🔭 **LiDAR 3D Object Detection** *(In Progress)*
+PointPillars on KITTI dataset — PyTorch · ONNX · Open3D
+
+🚀 **Telecom Churn MLOps Pipeline** *(Coming Soon)*
+End-to-end ML system with FastAPI serving, MLflow, Docker, CI/CD
+
+---
+
+## Currently
+- 🔨 Building production-grade LiDAR perception pipeline
+- 🎯 Targeting ML Engineering and Data Science roles in the US
+- 📖 Deepening expertise in 3D object detection and robotics ML
