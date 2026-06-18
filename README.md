@@ -6,7 +6,7 @@
 ---
 
 ## About
-ML Engineer and Data Scientist with 4+ years building production 
+ML Engineer and AI with 4+ years building production 
 ML systems at enterprise scale. Specialized in GenAI, RAG pipelines, 
 LLM fine-tuning, and end-to-end model lifecycle from training to 
 TorchServe/ONNX deployment on AWS and GCP.
